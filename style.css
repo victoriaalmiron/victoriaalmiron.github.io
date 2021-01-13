@@ -1,0 +1,25 @@
+/* see the HTML for info */
+
+/* carousel */
+.carousel-item{
+  height: 100vh;    /* height of images */
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: cover;
+}
+.image1{
+  background-image: url('https://storage.googleapis.com/voltweb/media/07633282-cd1b-4f50-8dae-3af3c7f64981.png');
+}
+.image2{
+  background-image: url('https://storage.googleapis.com/voltweb/e478435c-8729-4678-ac04-e31c002a78e2.png')
+}
+.image3{
+  background-image: url('https://storage.googleapis.com/voltweb/baf8c0af-2d78-49eb-a149-8442f4cf481e.png');
+}
+
+/* increase height of images for width > 792px */
+/*@media only screen and (min-width:792px){
+  .carousel-item{
+    height: 27rem;
+  }
+}*/
