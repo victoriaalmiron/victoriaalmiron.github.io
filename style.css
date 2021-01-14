@@ -16,6 +16,27 @@
 .image3{
   background-image: url('https://storage.googleapis.com/voltweb/baf8c0af-2d78-49eb-a149-8442f4cf481e.png');
 }
+.image4{
+  background-image: url('images/013.png');
+}
+.image5{
+  background-image: url('images/011.png');
+}
+.image6{
+  background-image: url('images/012.png');
+}
+.image7{
+  background-image: url('images/001.png');
+}
+.image8{
+  background-image: url('images/002.png');
+}
+.image9{
+  background-image: url('images/003.png');
+}
+.image10{
+  background-image: url('images/004.png');
+}
 
 /* increase height of images for width > 792px */
 /*@media only screen and (min-width:792px){
