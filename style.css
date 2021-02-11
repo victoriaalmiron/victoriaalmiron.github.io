@@ -35,7 +35,8 @@
   background-image: url('images/003.png');
 }
 .image10{
-  background-image: url('images/004.jpg');
+  /* background-image: url('images/004.jpg'); */
+  background: no-repeat center/50% url('images/004.jpg');
 }
 
 /* increase height of images for width > 792px */
