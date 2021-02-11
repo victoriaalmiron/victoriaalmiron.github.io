@@ -1,5 +1,7 @@
 /* see the HTML for info */
-
+body {
+  background-color: black;
+}
 /* carousel */
 .carousel-item{
   height: 100vh;    /* height of images */
