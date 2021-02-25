@@ -10,23 +10,23 @@ body {
   background-size: cover;
 }
 .image1{
-  background-image: url('images/001.jpg');
+  background-image: url('images/001.png');
   background-size: contain;
 }
 .image2{
-  background-image: url('images/002.jpg');
+  background-image: url('images/002.png');
   background-size: contain;
 }
 .image3{
-  background-image: url('images/003.jpg');
+  background-image: url('images/003.png');
   background-size: contain;
 }
 .image4{
-  background-image: url('images/004.jpg');
+  background-image: url('images/004.png');
   background-size: contain;
 }
 .image5{
-  background-image: url('images/005.jpg');
+  background-image: url('images/005.png');
   background-size: contain;
 }
 .image6{
