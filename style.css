@@ -10,8 +10,8 @@ body {
   background-size: cover;
 }
 .image1{
-  background-image: url('images/001.png');
-  /* background-size: contain; */
+  background-image: url('images/001.jpg');
+  background-size: contain;
 }
 .image2{
   background-image: url('images/002.png');
@@ -27,7 +27,7 @@ body {
 }
 .image5{
   background-image: url('images/001.png');
-  background-size: contain;
+  /* background-size: contain; */
 }
 .image6{
   background-image: url('images/006.jpg');
