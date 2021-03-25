@@ -33,6 +33,14 @@ body {
   background-image: url('images/006.png');
   /* background-size: contain; */
 }
+.image7{
+  background-image: url('images/009.png');
+  /* background-size: contain; */
+}
+.image8{
+  background-image: url('images/010.png');
+  /* background-size: contain; */
+}
 
 /* increase height of images for width > 792px */
 /*@media only screen and (min-width:792px){
