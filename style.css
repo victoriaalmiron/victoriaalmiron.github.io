@@ -38,8 +38,8 @@ body {
   /* background-size: contain; */
 }
 .image8{
-  background-image: url('images/danilo.jpg');
-  background-size: contain;
+  background-image: url('images/002.png');
+  /* background-size: contain; */
 }
 
 /* increase height of images for width > 792px */
